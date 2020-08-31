@@ -3,12 +3,9 @@ Official implementation of "Abstraction Mechanisms Predict Generalization in Dee
 Paper link: https://proceedings.icml.cc/static/paper_files/icml/2020/6109-Paper.pdf
 
 For correspondence and questions: 
-
-Name: Alex Gain 
-
-Email: again1@jhu.edu
-
-LinkedIn: https://www.linkedin.com/in/alex-gain-184305195/
+- Name: Alex Gain 
+- Email: again1@jhu.edu
+- LinkedIn: https://www.linkedin.com/in/alex-gain-184305195/
 
 # Fastest Usage
 1. Open `CNA_Notebook.ipynb` in Google Collaboratory (https://colab.research.google.com/).
