@@ -9,7 +9,8 @@ For correspondence and questions:
 
 # Fastest Usage
 1. Open `CNA_Notebook.ipynb` in Google Collaboratory (https://colab.research.google.com/drive/15tcbw3KO6B4F-yBO-K5RJtkl9s1KFDgw?usp=sharing).
-2. At top, click `Runtime -> Run All Cells`.
+2. Duplicate copy in your Google Drive `File -> Save a copy in Drive`.
+3. Run all cells `Runtime -> Run All Cells`.
 
 # Installation, Usage, and Minimal Working Example
 1. Add `cna_utils.py` to your root directory.
