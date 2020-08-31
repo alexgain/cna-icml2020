@@ -26,7 +26,7 @@ cna_m_val = CNA_M(train_loader, test_loader, net, args.flatten)
 ```
 
 For minimal working example in `cna-icml2020/usage` run:
-`python get_cna.py --net_path saved_nets/net0.pt --dataset mnist --flatten=1 --cuda=1`
+```python get_cna.py --net_path saved_nets/net0.pt --dataset mnist --flatten=1 --cuda=1```
 
 # Example Results From `CNA_Notebook.ipynb`
 
