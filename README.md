@@ -1,5 +1,5 @@
 # CNA -- ICML 2020
-Official implementation of "Abstraction Mechanisms Predict Generalization in Deep Neural Networks", published in ICML 2020. 
+Official implementation of "Abstraction Mechanisms Predict Generalization in Deep Neural Networks", published in ICML 2020, an unsupervised generalization gap metric.
 Paper link: https://proceedings.icml.cc/static/paper_files/icml/2020/6109-Paper.pdf
 
 For correspondence and questions: 
