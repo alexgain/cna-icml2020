@@ -8,7 +8,7 @@ For correspondence and questions:
 - LinkedIn: https://www.linkedin.com/in/alex-gain-184305195/
 
 # Fastest Usage
-1. Open `CNA_Notebook.ipynb` in Google Collaboratory (https://colab.research.google.com/).
+1. Open `CNA_Notebook.ipynb` in Google Collaboratory (https://colab.research.google.com/drive/15tcbw3KO6B4F-yBO-K5RJtkl9s1KFDgw?usp=sharing).
 2. At top, click `Runtime -> Run All Cells`.
 
 # Installation, Usage, and Minimal Working Example
