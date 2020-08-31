@@ -26,6 +26,7 @@ cna_m_val = CNA_M(train_loader, test_loader, net, args.flatten)
 ```
 
 For minimal working example in `cna-icml2020/usage` run:
+
 ```python get_cna.py --net_path saved_nets/net0.pt --dataset mnist --flatten=1 --cuda=1```
 
 # Example Results From `CNA_Notebook.ipynb`
@@ -35,10 +36,15 @@ For minimal working example in `cna-icml2020/usage` run:
 ![alt text](imgs/plot3.png)
 ![alt text](imgs/plot4.png)
 
+# Saved models
+
+All saved models (over 600 saved network states) and results (including margin comparison metrics) can be found here:
+- https://drive.google.com/drive/folders/1luB00h5egx-s1OwYav284HSwccfO7H2M?usp=sharing
+
 # Legacy code
 For posterity, in `cna-icml2020/legacy_code`, the original code for producing the experimental results from the paper is supplied. This is not updated or maintained. All functionality will be refactored into this new repository for more convenient usage. It is recommended to make use of the non-legacy code for future work.
 
-TO-DO left for refactoring legacy code into `get_cna.py`:
+TO-DO left for refactoring legacy code into `cna-icml2020/usage`:
 - [ ] Shuffled label dataset loaders.
 - [ ] Margin-based generalization metrics (can also be accessed here: https://github.com/bneyshabur/generalization-bounds).
 
