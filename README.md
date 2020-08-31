@@ -36,7 +36,7 @@ For minimal working example in `cna-icml2020/usage` run:
 ![alt text](imgs/plot3.png)
 ![alt text](imgs/plot4.png)
 
-# Saved models
+# Saved models and Results
 
 All saved models (over 600 saved network states) and results (including margin comparison metrics) can be found here:
 - https://drive.google.com/drive/folders/1luB00h5egx-s1OwYav284HSwccfO7H2M?usp=sharing
