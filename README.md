@@ -2,9 +2,12 @@
 Official implementation of "Abstraction Mechanisms Predict Generalization in Deep Neural Networks", published in ICML 2020. 
 Paper link: https://proceedings.icml.cc/static/paper_files/icml/2020/6109-Paper.pdf
 
-Correspondence: 
-Alex Gain 
+For correspondence and questions: 
+
+Name: Alex Gain 
+
 Email: again1@jhu.edu
+
 LinkedIn: https://www.linkedin.com/in/alex-gain-184305195/
 
 # Fastest Usage
